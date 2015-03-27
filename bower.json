@@ -1,0 +1,14 @@
+{
+  "name": "angular2-express",
+  "version": "0.0.0",
+  "authors": [
+    "Jigar Dafda <jigar.dafda@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/scripts/vendors",
+    "tests"
+  ]
+}
