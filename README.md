@@ -4,7 +4,7 @@ Simple example project to experiment with Angurlar2 and ES6
 
 ## Install NPM Dependencies ##
 
-	* `npm i -g gulp`
+	* `npm install -g gulp`
 	* `npm install`
 	* `bower install`
 
