@@ -1,1 +1,1 @@
-# angular2-express #
+# Angular2 Sample #
