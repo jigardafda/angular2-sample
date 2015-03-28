@@ -1,7 +1,7 @@
 {
   "name": "angular2-sample",
   "version": "0.0.1",
-  "description": "",
+  "description": "Angular2 Sample",
   "scripts": {},
   "authors": [
     "Jigar Dafda <jigar.dafda@gmail.com>"
@@ -9,11 +9,13 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.8.11",
+    "gulp-clean": "^0.3.1",
     "gulp-connect": "^2.2.0",
     "gulp-install": "^0.2.0",
     "gulp-rename": "^1.2.0",
     "gulp-sourcemaps": "^1.5.1",
     "gulp-traceur": "^0.17.0",
+    "run-sequence": "^1.0.2",
     "through2": "^0.6.3"
   },
   "dependencies": {
