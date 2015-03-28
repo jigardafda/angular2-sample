@@ -4,16 +4,16 @@ Simple example project to experiment with Angurlar2 and ES6
 
 ## Install NPM Dependencies ##
 
-	* `npm install -g gulp`
-	* `npm install`
-	* `bower install`
+*`npm install -g gulp`
+* `npm install`
+* `bower install`
 
 ## Setup Dependencies for angular2 ##
-	* `gulp gen-deps`
+* `gulp gen-deps`
 
 ## Start Server ##
-	* `gulp server`
-	* open [http://localhost:8080](http://localhost:8080)
+* `gulp server`
+* open [http://localhost:8080](http://localhost:8080)
 
 ## Dependencies ##
 
