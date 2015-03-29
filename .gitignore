@@ -28,3 +28,9 @@ node_modules
 
 # bower 
 app/scripts/vendors
+
+# build
+dist
+
+# css
+app/styles.css
